@@ -1,3 +1,22 @@
 Gitskills
 
+创建一个dev分支
+git checkout -b dev  = git brauch dev git checkout dev 这两条命令
+切换分支：git checkout <name>
+创建+切换分支：git checkout -b <name>
 
+查看当前的分支
+git branch 
+前面有星号的分支代表着目前工作的分支。
+
+切换回到master分支
+git checkout master
+
+现在，我们把dev分支的工作成果合并到master分支上：
+git merge dev
+git merge 命令用于合并指定分支到当前分支
+合并某分支到当前分支：git merge <name>
+
+
+
+删除分支：git branch -d <name>
