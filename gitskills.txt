@@ -1,5 +1,10 @@
 Gitskills
 
+GitHub :https://github.com/
+benutznamer: HenningXiong
+passwort:QQ+Name
+
+
 创建一个dev分支
 git checkout -b dev  = git brauch dev git checkout dev 这两条命令
 切换分支：git checkout <name>
